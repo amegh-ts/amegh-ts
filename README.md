@@ -49,7 +49,7 @@ Three years shipping booking, payment and admin systems with Next.js and Node.js
 | --- | --- | --- |
 | [**Finance App**](https://github.com/TVRCloud/expense-tracker) | Expense tracker for web with an Android companion. Bank SMS messages are auto-imported into transactions through an n8n workflow, with live balances and budget alerts. | Next.js 15, Flutter, Kotlin, Socket.IO, MongoDB, Redis, PWA |
 | [**UniTide**](https://github.com/TVRCloud/unitide) · [live demo](https://teamsync-one.vercel.app) | Task management and team collaboration: projects, tasks, teams, clients and comments, with admin and user roles. | Next.js 16, shadcn/ui, TanStack Query, MongoDB |
-| [**amegh.me**](https://github.com/amegh-ts/amegh.me) | My portfolio, with selected work, experience and contact. | TypeScript, Next.js |
+| [**amegh.me**](https://github.com/amegh-ts/amegh.me) | My portfolio, with selected work, experience and contact. | HTML, CSS, Cloudflare Workers |
 
 More of my work, including Oppam and Club Travalet, is on [amegh.me](https://amegh.me).
 
